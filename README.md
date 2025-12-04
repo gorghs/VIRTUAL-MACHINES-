@@ -1,5 +1,7 @@
 # VIRTUAL-MACHINES-
 EX 6: MOVING FILES BETWEEN VIRTUAL MACHINES
+# Name: KARTHICK V
+# Register Number: 212223040086
 
 Aim:
 To move the files between virtual machine.
